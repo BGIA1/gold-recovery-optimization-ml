@@ -16,7 +16,7 @@ Este proyecto simula un entorno industrial real para la empresa **Zyfra**. El ob
 4.  **Optimización:** Ajuste de hiperparámetros para superar el baseline del modelo "Dummy".
 
 ## 📊 Resultados
-* [cite_start]**Métrica Final:** Se alcanzó un **sMAPE de 9.36%** en el conjunto de prueba[cite: 22].
+* **Métrica Final:** Se alcanzó un **sMAPE de 9.36%** en el conjunto de prueba.
 * El modelo de **Random Forest** demostró ser el más robusto para capturar la no-linealidad de los procesos químicos involucrados.
 
 ## 📁 Disponibilidad de los Datos
